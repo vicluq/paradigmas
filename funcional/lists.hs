@@ -17,6 +17,7 @@
         -- length list 
     -- * Lista como paramentro da funcao
         -- func (head:tail) -> head eh o elemento da cabeça e tail eh o resto que sobra da lista 
+        -- ? Desestruturação de lista
     -- * Concatenação
         -- list1 (++) list2
         -- (x:xs) ++ y = x : (xs ++ y)
