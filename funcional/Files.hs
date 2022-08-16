@@ -1,0 +1,4 @@
+-- ! Arquivos
+    -- * readFile :: FilePath -> IO String (é lazy, vai carregando na memoria conforme uso)
+    -- * writeFile :: FilePath -> String -> IO()
+    -- * appendFile :: FilePath -> String -> IO()
