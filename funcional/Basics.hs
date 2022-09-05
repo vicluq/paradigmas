@@ -92,6 +92,7 @@ sumSqrs x y = sqrX + sqrY
 -- show elem -> converte o elemento pra string
 -- putStr/putStrLn (podemos usar caracteres especiais e formatacao)
 -- Comparações de tabela ascii
+-- words str -> separa pelos espaços
 
 -- ! Float e Double
 -- ceiling, floor, round
